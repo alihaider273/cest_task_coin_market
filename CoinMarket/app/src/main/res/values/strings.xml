@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coin Market</string>
+    <string name="exchanges">EXCHANGES</string>
+    <string name="search_cryptocurrency">Search Cryptocurrency</string>
+    <string name="cryptocurrency">Cryptocurrency</string>
+    <string name="nft">NFT</string>
+    <string name="top_cryptocurrencies">Top Cryptocurrencies</string>
+    <string name="view_all">View All</string>
+</resources>

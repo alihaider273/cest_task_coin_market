@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_eshop"
+        android:checked="false"
+        android:title="E-$hop" />
+
+    <item
+        android:id="@+id/branchesFragment"
+        android:icon="@drawable/ic_exchange"
+        android:title="Exchange" />
+
+    <item
+        android:id="@+id/membership"
+        android:contentDescription="@null"
+        android:title="" />
+
+    <item
+        android:id="@+id/happinessMeterBottomSheetFragment"
+        android:icon="@drawable/ic_launch"
+        android:title="Luanchpads" />
+
+    <item
+        android:id="@+id/moreFragment"
+        android:icon="@drawable/ic_wallet"
+        android:title="Wallet" />
+
+</menu>
